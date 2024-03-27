@@ -1,0 +1,3 @@
+<div class='message sender'><strong>Rio:</strong> Halo</div>
+<div class='message sender'><strong>Danes:</strong> Hai</div>
+<div class='message sender'><strong>Zul:</strong> Hola</div>
